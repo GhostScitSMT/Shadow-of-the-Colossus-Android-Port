@@ -21,12 +21,3 @@ Current Status
 Version 0.12.0 — Touch Preview
 
 Tested on AYN Thor Pro and Retroid Pocket Flip 2 with Android 13 for game startup, save loading, simultaneous touch input, menu navigation, overlay visibility, and both icon sets. Full-game testing and compatibility with other Android devices remain ongoing.
-
-| Device / configuration | Status | Notes |
-|---|---|---|
-| **AYN Thor — System driver** | ✅ Working | Confirmed through testing and user feedback. Recommended default. |
-| **Retroid Pocket Flip 2 — System driver** | ✅ Working | Confirmed by user testing. Recommended default. |
-| **Other Retroid models** | ⏳ Untested | Compatibility needs confirmation for each model. |
-| **Other Android devices** | ⏳ Untested | Performance and compatibility may vary. |
-| **AYN Thor — Experimental Turnip integration** | ⚠️ Experimental | Successfully rendered the game, but extended tests encountered crashes or memory pressure. |
-| **Other devices — Imported Turnip drivers** | ⏳ Untested | Compatibility is not confirmed. |

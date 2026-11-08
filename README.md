@@ -1,4 +1,4 @@
-# Shadow-of-the-Colossus-Android-Port
+# Shadow of the Colossus Android Port
 An experimental Android build designed for handheld play, with controller support, touch controls, and configurable button icons. Tested on the AYN Thor.
 Features
 - Touch controls: Two virtual sticks, directional pad, face buttons, shoulder buttons, Start/Select, and stick clicks.

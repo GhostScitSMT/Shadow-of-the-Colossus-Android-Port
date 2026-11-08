@@ -16,8 +16,5 @@ Getting Started
 4. Press Play.
 Touch controls work without physical-controller calibration. Icon changes apply when launching the game again.
 Save Compatibility
-The touch preview installs alongside the earlier Shadow Android Preview. Existing saves can be copied into the new edition; afterward, each app maintains its own progress.
-Current Status
-Version 0.12.0 — Touch Preview
 
 Tested on AYN Thor Pro and Retroid Pocket Flip 2 with Android 13 for game startup, save loading, simultaneous touch input, menu navigation, overlay visibility, and both icon sets. Full-game testing and compatibility with other Android devices remain ongoing.

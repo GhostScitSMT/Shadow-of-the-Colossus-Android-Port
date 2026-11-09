@@ -26,7 +26,7 @@ This build was checked on a device with 4 KB memory pages. The bundled ANGLE lib
 
 ## Download and install
 
-1. When a public build is available, open this repository’s **Releases** tab and download the APK from the release assets.
+1. Download APK
 2. Open the APK on your Android device. If Android prompts you, allow installs from the browser or file manager you used to open it, then finish the installation.
 3. Open the app and go to the **Play** tab. The system graphics driver is selected on a fresh install.
 4. Tap **Choose USA ISO** and select your `.iso` in Android’s file picker. If the file is inside a ZIP or 7z archive, extract it first.

@@ -4,7 +4,7 @@ An unofficial Android port of the original PlayStation 2 game, adapted for Andro
 
 **Version 0.13.4 · current build**
 
-The APK is currently in local testing. Public downloads are pending recovery of the Android engine source for this build.
+The APK is currently in the testing phase. 
 
 ## Features
 

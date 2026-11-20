@@ -26,13 +26,26 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 - **Touch camera.** Under **Touch → Touch camera**, choose **Screen drag** or **Right stick**. In Screen drag mode, drag an empty part of the screen to move the camera. Adjust the response from **50% to 200%** under **Touch → Screen drag sensitivity**.
 - **Game menu.** Tap **Menu** at the top center or swipe left from the right edge. Choose **Return to launcher** to go back to the main screen. Double-tap **Select** to open the in-game settings hub.
 
-## What’s new in v0.14.4
+## What’s new — Handheld Edition 0.14.14
+*Update for users on 0.14.4*
 
-- The **left touch stick** uses your first touch as its neutral point. An off-center touch won’t move Wander until you drag.
-- Small drags give you finer movement, full speed takes less thumb travel, and diagonals use the same maximum input strength as straight movement.
-- Screen drag picks up the final part of quick camera swipes when you lift your finger.
-- The **Touch** menu scrolls so the layout, opacity, camera, frame limiter, and rotation options stay reachable.
-- **Touch → Screen rotation** offers standard landscape, a 180° flip, and automatic landscape rotation. See the AYN Thor issue below.
+- Fixed missing scenery around the shrine and reduced distant texture flickering.
+- Added a preinstalled HD texture pack with an **On/Off switch** under **Textures**. No separate download needed. Restart the game after switching.
+- Fixed transparent walls and characters caused by the HD texture integration.
+- Improved launcher artwork and made the **By GhostScitSMT** credit easier to read.
+
+**⚠️ Back up your saves before updating!**
+
+**Export:** Return to the launcher → **Backups → Export backup ZIP** → choose a safe location → **Save**. Wait for **Backup exported**.
+
+**Restore:** **Backups → Import backup ZIP** → select your backup → **Restore**. Then launch the game and select **Load Game**.
+
+Install the APK **over Handheld Edition 0.14.4 without uninstalling it** to retain your existing game data and saves.
+
+**HD texture credits:** Sad Origami, with Txori credited for the EU-to-US conversion tool. Thanks to Nomad Colossus and the pack’s other contributors.  
+[Support Sad Origami](https://ko-fi.com/sadorigami)
+
+**Preview release:** Tested around the shrine on AYN Thor. Some graphics issues may remain; other devices and full-game compatibility are still unverified.
 
 ## Display and graphics drivers
 

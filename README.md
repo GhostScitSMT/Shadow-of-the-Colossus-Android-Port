@@ -32,7 +32,7 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 - Fixed missing scenery around the shrine and reduced distant texture flickering.
 - Added a preinstalled HD texture pack with an **On/Off switch** under **Textures**. No separate download needed. Restart the game after switching.
 - Fixed transparent walls and characters caused by the HD texture integration.
-- Improved launcher artwork and made the **By GhostScitSMT** credit easier to read.
+- Improved launcher artwork 
 
 **⚠️ Back up your saves before updating!**
 

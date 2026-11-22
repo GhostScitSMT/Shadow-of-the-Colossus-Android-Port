@@ -2,7 +2,6 @@
 
 An unofficial Android port of the PlayStation 2 game, adapted for handhelds and phones by **GhostScitSMT**. Play with a physical controller or customizable touch controls, choose original PlayStation or Switch-style button prompts, and adjust the display for your device.
 
-**Current build:** v0.14.4 Driver Preview
 
 ## Requirements
 
@@ -29,11 +28,11 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 
 ## Things to focus on later:
 
--EU support
+-**EU support
 
--Malitek support(Will be focused on once I get a device that runs it
+-**Malitek support(Will be focused on once I get a device that runs it
 
--Better Phone Support(Better touch comtrols and physical controller support)
+-**Better Phone Support(Better touch comtrols and physical controller support)
 
 
 
@@ -45,10 +44,15 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 
 Install the APK **over Handheld Edition 0.14.4 without uninstalling it** to retain your existing game data and saves.
 
-**HD texture credits:** Sad Origami, with Txori credited for the EU-to-US conversion tool. Thanks to Nomad Colossus and the pack’s other contributors.  
+##HD texture credits: 
+
+Sad Origami, with Txori credited for the EU-to-US conversion tool. Thanks to Nomad Colossus and the pack’s other contributors.  
 [Support Sad Origami](https://ko-fi.com/sadorigami)
 
-**Preview release:** Tested around the shrine on AYN Thor. Some graphics issues may remain; other devices and full-game compatibility are still unverified.
+
+##Preview release: 
+
+Tested around the shrine on AYN Thor. Some graphics issues may remain; other devices and full-game compatibility are still unverified.
 
 ## Display and graphics drivers
 

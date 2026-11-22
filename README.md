@@ -37,7 +37,7 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 
 
 
-**⚠️ Back up your saves before updating!**
+## ⚠️ Back up your saves before updating!
 
 **Export:** Return to the launcher → **Backups → Export backup ZIP** → choose a safe location → **Save**. Wait for **Backup exported**.
 

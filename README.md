@@ -26,13 +26,11 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 - **Touch camera.** Under **Touch → Touch camera**, choose **Screen drag** or **Right stick**. In Screen drag mode, drag an empty part of the screen to move the camera. Adjust the response from **50% to 200%** under **Touch → Screen drag sensitivity**.
 - **Game menu.** Tap **Menu** at the top center or swipe left from the right edge. Choose **Return to launcher** to go back to the main screen. Double-tap **Select** to open the in-game settings hub.
 
-## What’s new — Handheld Edition 0.14.14
-*Update for users on 0.14.4*
+## Things to focus on later:
 
-- Fixed missing scenery around the shrine and reduced distant texture flickering.
-- Added a preinstalled HD texture pack with an **On/Off switch** under **Textures**. No separate download needed. Restart the game after switching.
-- Fixed transparent walls and characters caused by the HD texture integration.
-- Improved launcher artwork 
+-EU support
+-Malitek support(Will be focused on once I get a device that runs it
+-Better Phone Support(Better touch comtrols and physical controller support)
 
 **⚠️ Back up your saves before updating!**
 

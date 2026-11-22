@@ -25,12 +25,17 @@ An unofficial Android port of the PlayStation 2 game, adapted for handhelds and 
 - **Touch layout.** During gameplay, tap **Touch → Edit layout** to move and resize controls, adjust each button’s opacity, or turn on **Grid** for easier alignment. Tap **Save** to keep the layout.
 - **Touch camera.** Under **Touch → Touch camera**, choose **Screen drag** or **Right stick**. In Screen drag mode, drag an empty part of the screen to move the camera. Adjust the response from **50% to 200%** under **Touch → Screen drag sensitivity**.
 - **Game menu.** Tap **Menu** at the top center or swipe left from the right edge. Choose **Return to launcher** to go back to the main screen. Double-tap **Select** to open the in-game settings hub.
+- 
 
 ## Things to focus on later:
 
 -EU support
+
 -Malitek support(Will be focused on once I get a device that runs it
+
 -Better Phone Support(Better touch comtrols and physical controller support)
+
+
 
 **⚠️ Back up your saves before updating!**
 
